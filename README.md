@@ -23,7 +23,7 @@
 <a href="https://twitter.com/joaopgodinho" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-joao-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="www.linkedin.com/in/joão-paulo-godinho" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-godinho/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-joao-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/joaopaulog92/" target="_blank">
