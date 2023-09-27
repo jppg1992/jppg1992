@@ -12,8 +12,12 @@
 - 💬 Ask me about **Anything**
 
 - 👨‍💻 More at [joao.dev](https://jppg1992.github.io/dev-links/)
- 
 
+ <br><br>
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jppg1992&show_icons=true&theme=chartreuse-dark)
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jppg1992&layout=compact)](https://github.com/jppg1992/github-readme-stats)
+  
 <br><br>
 
 ## Contact
