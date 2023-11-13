@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Sicredi](https://www.sicredi.com.br/coop/liberdade/)
 
-- 🌱 I’m currently learning  **JavaScript, HTML, CSS, Node.JS, TypeScript, React, ...**
+- 🌱 I’m currently learning  **Java,JavaScript, HTML, CSS, Node.JS, TypeScript, React, ...**
 
 - 💬 Ask me about **Anything**
 
